@@ -33,4 +33,5 @@ namespace Attentive.Unity
                 androidBridge.ClearCookies();
 #endif
         }
+    }
 }
